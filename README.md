@@ -6,7 +6,7 @@ Desarrollador web desde hace 3 años, aprendi a programar gracias a Wordpress pe
   Demo: https://uberrimohomes.com/
   _Stack:_ React, Wordpress, Tailwind, PHP
 
-- **Proyecto B** — Landing con animaciones sutiles.  
+- **Proyecto B** — SPA con React + Wordpress Headless.  
   Demo: https://ugaturismo.com/ 
    _Stack:_ React, Wordpress, Tailwind, PHP
 
