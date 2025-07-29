@@ -15,4 +15,4 @@ React · TypeScript · Vite · Tailwind · Wordpress · Next
 
 ## 📫 Contacto
 - Portafolio: https://orbet-lozada.netlify.app/
-- X / LinkedIn: @orbetlozada
+- LinkedIn: @orbet-lozada
